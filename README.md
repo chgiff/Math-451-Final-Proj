@@ -1,4 +1,4 @@
-# Math-451-Final-Proj
+# Math 451 Final Proj
 Final Project for Numerical Analysis class
 
 The project does a reparameterization of a curve so the new curve has a constant arclength with respect to time.
